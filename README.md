@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Md. Farhad Billah
 #### Data Analyst, ML Developer
-![Data Analyst, ML Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/430150033_1653049755224896_6296872356448499380_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeECCrOHRvLpFYHXx8EtsZoDKhsNhne4_LcqGw2Gd7j8txa2qxGaXljz5Zcyb99CmOSRiZfmY8sm20YEPoRZmpJM&_nc_ohc=D8lqwagy3TYQ7kNvgHQVem0&_nc_ht=scontent.fdac14-1.fna&oh=00_AYANSWyadgvSfMwuxy3ik1N724t6IxAlCv4kKMehcL-ozA&oe=6685BCDF)
+![Data Analyst, ML Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/242165510_1101949950334882_3819364016520749192_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeE69kM-VfHIVRpr_7eEoluuEjo9ULdVrMkSOj1Qt1WsyS013e5MjXZhGQfRM9JJxqXOqWMupGJjGBAJGnJmaTiB&_nc_ohc=5GUCyIfPTwgQ7kNvgHLC0_8&_nc_ht=scontent.fdac14-1.fna&oh=00_AYCb-cWSr7ANyERtyde8c64MeMhHOtJsFAMAHNjIxSR8pA&oe=6685A658)
 
 I recently graduated from East West University with a BSc in Computer Science and Engineering, specializing in Data Science. 
 
@@ -19,10 +19,6 @@ Skills: Python/Data collection and analysis/Deep Learning/Data Mining/Math Exper
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad0111)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farhad0111&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Farhad0111/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Farhad0111)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Farhad0111)  
 
