@@ -4,7 +4,6 @@
 I recently graduated from East West University with a BSc in Computer Science and Engineering, specializing in Data Science. 
 
 ### Work Experience:
-
 1. Data Science Intern at Designers Do Futuro, Dhaka, Bangladesh
 
 Duration: 08/2023 – 12/2023
