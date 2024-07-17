@@ -1,9 +1,13 @@
 ### Hi there 👋, My name is Md. Farhad Billah
 ### Data Analyst, ML Developer
-![Data Analyst, ML Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/242165510_1101949950334882_3819364016520749192_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeE69kM-VfHIVRpr_7eEoluuEjo9ULdVrMkSOj1Qt1WsyS013e5MjXZhGQfRM9JJxqXOqWMupGJjGBAJGnJmaTiB&_nc_ohc=5GUCyIfPTwgQ7kNvgHLC0_8&_nc_ht=scontent.fdac14-1.fna&oh=00_AYCb-cWSr7ANyERtyde8c64MeMhHOtJsFAMAHNjIxSR8pA&oe=6685A658)
 
 I recently graduated from East West University with a BSc in Computer Science and Engineering, specializing in Data Science. 
 
+### Work Experience:
+1. Data Science Intern at Designers Do Futuro, Dhaka, Bangladesh
+Duration: 08/2023 – 12/2023
+2. Junior Service Engineer at Aamra Networks Limited, Dhaka, Bnagladesh
+Duration 07/2024 - Present
 Skills: Python/Data collection and analysis/Deep Learning/Data Mining/Math Expertise/C/C++, Java/MySQL/HTML/PHP/CSS/Bootstrap/JavaScript
 
 - 🌱 I’m currently learning Web Development 
