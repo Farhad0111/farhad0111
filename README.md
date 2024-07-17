@@ -6,11 +6,11 @@ I recently graduated from East West University with a BSc in Computer Science an
 ### Work Experience:
 1. Data Science Intern at Designers Do Futuro, Dhaka, Bangladesh
 
-Duration: 08/2023 – 12/2023
+  Duration: 08/2023 – 12/2023
 
 2. Junior Service Engineer at Aamra Networks Limited, Dhaka, Bnagladesh
 
-Duration 07/2024 - Present
+  Duration 07/2024 - Present
 
 
 Skills: Python/Data collection and analysis/Deep Learning/Data Mining/Math Expertise/C/C++, Java/MySQL/HTML/PHP/CSS/Bootstrap/JavaScript
