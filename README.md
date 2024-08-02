@@ -12,7 +12,7 @@ I recently graduated from East West University with a BSc in Computer Science an
 
    Duration 07/2024 - 08/2024
 
-4. Junior Service Engineer at Aamra Networks Limited, Dhaka, Bnagladesh
+4. Junior Service Engineer at Aamra Techonologies Limited, Dhaka, Bnagladesh
 
   Duration 07/2024 - Present
 
