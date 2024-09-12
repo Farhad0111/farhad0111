@@ -16,7 +16,7 @@ I recently graduated from East West University with a BSc in Computer Science an
    
 5. Data Science Intern at Designers Do Futuro, Dhaka, Bangladesh
 
-  Duration: 08/2023 – 12/2023
+   Duration: 08/2023 – 12/2023
 
 
 
