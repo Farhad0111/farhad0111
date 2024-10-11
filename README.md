@@ -19,6 +19,15 @@ I recently graduated from East West University with a BSc in Computer Science an
    Duration: 08/2023 – 12/2023
 
 
+### Online Courses:
+1. Web Development at Programming Hero
+
+   Duration 06/2024 - Present
+
+
+2. Data Science & Machine Learning with Python for Beginners at Ostad
+
+   Duration 06/2024 - Present
 
 Skills: Python/Data collection and analysis/Deep Learning/Data Mining/Math Expertise/C/C++, Java/MySQL/HTML/PHP/CSS/Bootstrap/JavaScript
 
