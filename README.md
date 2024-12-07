@@ -1,12 +1,16 @@
 ### Hi there 👋, My name is Md. Farhad Billah
-### Data Analyst, ML Developer
+### Data Analyst, ML Developer, Front-End Developer
 
 I recently graduated from East West University with a BSc in Computer Science and Engineering, specializing in Data Science. 
 
 ### Work Experience:
-1. Junior Service Engineer at Aamra Technologies Limited, Dhaka, Bnagladesh
+1.Front-End Developer at bdCalling IT Ltd, Dhaka, Banglaesh
 
-   Duration 07/2024 - Present
+   Duration 12/2024 - present
+
+2. Junior Service Engineer at Aamra Technologies Limited, Dhaka, Bnagladesh
+
+   Duration 07/2024 - 11/2024
 
    
 3. Machine Learning virtual internship position with CodSoft, Kolkata, India
@@ -14,7 +18,7 @@ I recently graduated from East West University with a BSc in Computer Science an
    Duration 07/2024 - 08/2024
 
    
-5. Data Science Intern at Designers Do Futuro, Dhaka, Bangladesh
+4. Data Science Intern at Designers Do Futuro, Dhaka, Bangladesh
 
    Duration: 08/2023 – 12/2023
 
