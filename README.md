@@ -4,6 +4,7 @@
 I recently graduated from East West University with a BSc in Computer Science and Engineering, specializing in Data Science. 
 
 ### Work Experience:
+
 1.Front-End Developer at bdCalling IT Ltd, Dhaka, Banglaesh
 
    Duration 12/2024 - present
