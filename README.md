@@ -5,7 +5,7 @@ I recently graduated from East West University with a BSc in Computer Science an
 
 ### Work Experience:
 
-1.Junior Web Developer at bdCalling IT Ltd, Dhaka, Banglaesh
+1. Junior Web Developer at bdCalling IT Ltd, Dhaka, Banglaesh
 
    Duration 16/03/2024 - present
 
