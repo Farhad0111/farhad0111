@@ -29,6 +29,12 @@ I recently graduated from East West University with a BSc in Computer Science an
 
    Duration: 08/2023 – 12/2023
 
+### Research Papers:
+1. Deep Learning Models for Classification of Red Blood Cells in Microscopy Images for Anemia Diagnosis (COMPAS 2024 conference)[https://ieeexplore.ieee.org/document/10797203]
+
+2. Revisiting Opportunistic Network Environment (ONE) Simulator in Internet of Vehicles (IoV) (IEEE Access 2025 Journal)[https://ieeexplore.ieee.org/document/10929018]
+
+
 
 ### Online Courses:
 1. Web Development at Programming Hero
