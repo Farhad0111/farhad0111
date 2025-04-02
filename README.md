@@ -27,12 +27,12 @@ I recently graduated from East West University with a BSc in Computer Science an
    
 5. Data Science Intern at Designers Do Futuro, Dhaka, Bangladesh
 
-   Duration: 08/2023 – 12/2023
+   Duration: 08/2023 – 01/2024
 
 ### Research Papers:
 1. Deep Learning Models for Classification of Red Blood Cells in Microscopy Images for Anemia Diagnosis (COMPAS 2024 conference)[https://ieeexplore.ieee.org/document/10797203]
 
-2. Revisiting Opportunistic Network Environment (ONE) Simulator in Internet of Vehicles (IoV) (IEEE Access 2025 Journal)[https://ieeexplore.ieee.org/document/10929018]
+2. Revisiting ONE Simulator in IoV Research: Seeing the Forest Through the Trees (IEEE Access 2025 Journal)[https://ieeexplore.ieee.org/document/10929018]
 
 
 
