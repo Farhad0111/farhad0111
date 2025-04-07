@@ -5,27 +5,31 @@ I recently graduated from East West University with a BSc in Computer Science an
 
 ### Work Experience:
 
-1. Junior Web Developer at bdCalling IT Ltd, Dhaka, Banglaesh
+1. AI Developer at bdCalling IT Ltd, Dhaka, Banglaesh
 
-   Duration 16/03/2024 - present
+   Duration 07/04/2024 - Present
+
+2. Junior Web Developer at bdCalling IT Ltd, Dhaka, Banglaesh
+
+   Duration 16/03/2024 - 07/04/2024
 
    
-2. Front-End Developer at bdCalling IT Ltd, Dhaka, Banglaesh
+3. Front-End Developer at bdCalling IT Ltd, Dhaka, Banglaesh
 
    Duration 12/2024 - 15/03/2025
 
 
-3. Junior Service Engineer at Aamra Technologies Limited, Dhaka, Bnagladesh
+4. Junior Service Engineer at Aamra Technologies Limited, Dhaka, Bnagladesh
 
    Duration 07/2024 - 11/2024
 
    
-4. Machine Learning virtual internship position with CodSoft, Kolkata, India
+5. Machine Learning virtual internship position with CodSoft, Kolkata, India
 
    Duration 07/2024 - 08/2024
 
    
-5. Data Science Intern at Designers Do Futuro, Dhaka, Bangladesh
+6. Data Science Intern at Designers Do Futuro, Dhaka, Bangladesh
 
    Duration: 08/2023 – 01/2024
 
