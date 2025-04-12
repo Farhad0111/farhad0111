@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Md. Farhad Billah
-### Data Analyst, ML Developer, Front-End Developer
+### Data Analyst, AI Developer, Front-End Developer
 
 I recently graduated from East West University with a BSc in Computer Science and Engineering, specializing in Data Science. 
 
