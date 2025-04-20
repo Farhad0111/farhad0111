@@ -1,70 +1,61 @@
-### Hi there 👋, My name is Md. Farhad Billah
-### Data Analyst, AI Developer, Front-End Developer
+# Md. Farhad Billah
+## AI Developer | Data Analyst | Front-End Developer
 
-I recently graduated from East West University with a BSc in Computer Science and Engineering, specializing in Data Science. 
+> BSc in Computer Science and Engineering (Data Science Specialization) - East West University
 
-### Work Experience:
+### 💼 Professional Experience
+- **AI Developer** at bdCalling IT Ltd, Dhaka, Bangladesh *(Apr 2024 - Present)*
+- **Junior Web Developer** at bdCalling IT Ltd, Dhaka, Bangladesh *(Mar 2024 - Apr 2024)*
+- **Front-End Developer** at bdCalling IT Ltd, Dhaka, Bangladesh *(Dec 2024 - Mar 2025)*
+- **Junior Service Engineer** at Aamra Technologies Limited, Dhaka, Bangladesh *(Jul 2024 - Nov 2024)*
+- **Machine Learning Virtual Intern** at CodSoft, Kolkata, India *(Jul 2024 - Aug 2024)*
+- **Data Science Intern** at Designers Do Futuro, Dhaka, Bangladesh *(Aug 2023 - Jan 2024)*
 
-1. AI Developer at bdCalling IT Ltd, Dhaka, Banglaesh
+### 📚 Research Publications
+1. [**Deep Learning Models for Classification of Red Blood Cells in Microscopy Images for Anemia Diagnosis**](https://ieeexplore.ieee.org/document/10797203) *(COMPAS 2024)*
+2. [**Revisiting ONE Simulator in IoV Research: Seeing the Forest Through the Trees**](https://ieeexplore.ieee.org/document/10929018) *(IEEE Access 2025)*
 
-   Duration 07/04/2024 - Present
+### 🛠️ Technical Skills
+- **Programming Languages:** Python, C/C++, Java, JavaScript, PHP
+- **AI & Data Science:** Deep Learning, Data Mining, Data Analysis, Machine Learning
+- **Web Development:** HTML, CSS, Bootstrap, JavaScript
+- **Database:** MySQL
+- **Other:** Mathematics, Algorithm Design
 
-2. Junior Web Developer at bdCalling IT Ltd, Dhaka, Banglaesh
+### 🌱 Current Learning Journey
+- Web Development (Programming Hero)
+- Data Science & Machine Learning with Python (Ostad)
 
-   Duration 16/03/2024 - 07/04/2024
+### 🤝 Let's Connect!
+<div align="center">
+  <a href="https://github.com/Farhad0111"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' width='40'/></a>
+  <a href="https://www.linkedin.com/in/md-farhad-19234a250/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' width='40'/></a>
+  <a href="https://www.facebook.com/farhad.billah"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' width='40'/></a>
+  <a href="https://www.youtube.com/channel/UCDWMP5_3kmwx6KC5T_NjWeg"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40' width='40'/></a>
+</div>
 
-   
-3. Front-End Developer at bdCalling IT Ltd, Dhaka, Banglaesh
+### 🏆 GitHub Achievements
+<div align="center">
+  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'/></a>
+  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'/></a>
+  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'/></a>
+  <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'/></a>
+  <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'/></a>
+</div>
 
-   Duration 12/2024 - 15/03/2025
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Farhad0111&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad0111&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farhad0111&show_icons=true&count_private=true&theme=radical)
+  
+  ![GitHub streak](https://streak-stats.demolab.com/?user=Farhad0111&theme=tokyonight)
+  
+</div>
 
-
-4. Junior Service Engineer at Aamra Technologies Limited, Dhaka, Bnagladesh
-
-   Duration 07/2024 - 11/2024
-
-   
-5. Machine Learning virtual internship position with CodSoft, Kolkata, India
-
-   Duration 07/2024 - 08/2024
-
-   
-6. Data Science Intern at Designers Do Futuro, Dhaka, Bangladesh
-
-   Duration: 08/2023 – 01/2024
-
-### Research Papers:
-1. Deep Learning Models for Classification of Red Blood Cells in Microscopy Images for Anemia Diagnosis (COMPAS 2024 conference)[https://ieeexplore.ieee.org/document/10797203]
-
-2. Revisiting ONE Simulator in IoV Research: Seeing the Forest Through the Trees (IEEE Access 2025 Journal)[https://ieeexplore.ieee.org/document/10929018]
-
-
-
-### Online Courses:
-1. Web Development at Programming Hero
-
-   Duration 06/2024 - Present
-
-
-2. Data Science & Machine Learning with Python for Beginners at Ostad
-
-   Duration 06/2024 - Present
-
-Skills: Python/Data collection and analysis/Deep Learning/Data Mining/Math Expertise/C/C++, Java/MySQL/HTML/PHP/CSS/Bootstrap/JavaScript
-
-- 🌱 I’m currently learning Web Development 
-- 👯 I’m looking to collaborate on Github 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Farhad0111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-farhad-19234a250//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/farhad.billah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCDWMP5_3kmwx6KC5T_NjWeg)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Farhad0111)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad0111)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farhad0111&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Farhad0111)  
-
+### 🔍 Looking For
+- Collaboration opportunities on GitHub
+- Projects related to AI and Data Science
+- Connecting with fellow developers and researchers
