@@ -23,8 +23,10 @@
 - **Other:** Mathematics, Algorithm Design
 
 ### 🌱 Current Learning Journey
-- Web Development (Programming Hero)
+- Web Development (Programming Hero Label - 01)
 - Data Science & Machine Learning with Python (Ostad)
+- Web Development (Programming Hero Label - 02)
+- AI Agent Development Bootcamp for Programmers (Ostad)
 
 ### 🤝 Let's Connect!
 <div align="center">
