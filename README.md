@@ -4,7 +4,7 @@
 > BSc in Computer Science and Engineering (Data Science Specialization) - East West University
 
 ### 💼 Professional Experience
-- **AI Developer** at bdCalling IT Ltd, Dhaka, Bangladesh *(Dec 2024 - Present)*
+- **AI Developer** at SM Technology, Dhaka, Bangladesh *(Dec 2024 - Present)*
 - **Machine Learning Intern (Remote)** at CodSoft, Kolkata, India *(Jul 2024 - Aug 2024)*
 - **Data Science Intern** at Designers Do Futuro, Dhaka, Bangladesh *(Aug 2023 - Jan 2024)*
 
