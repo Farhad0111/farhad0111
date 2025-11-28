@@ -16,8 +16,7 @@
 - **AI & Data Science:** Machine Learning, Deep Learning, Data Mining, Data Analysis.
 - **Database:** MySQL.
 - **Core Expertise:** Mathematics, Algorithm Design, Creating API, RAG, MCP.
-- - **TOOLS & LIBRARIES:** Docker, Postman, FastAPI, Pydantic Models, voice-to-text, text to-voice, Google AI studio, Groq,
- OpenAI, HuggingFace, Git, Termius.
+- **TOOLS & LIBRARIES:** Docker, Postman, FastAPI, Pydantic Models, voice-to-text, text-to-voice, Google AI Studio, Groq, OpenAI, HuggingFace, Git, Termius.
 
 ### 🌱 Current Learning Journey
 - Web Development (Programming Hero Label - 01)
