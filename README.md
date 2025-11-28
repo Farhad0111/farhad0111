@@ -1,11 +1,10 @@
 # Md. Farhad Billah
-## AI Developer | Data Analyst | Front-End Developer
+## AI Developer | Data Analyst
 
 > BSc in Computer Science and Engineering (Data Science Specialization) - East West University
 
 ### 💼 Professional Experience
 - **AI Developer** at SM Technology, Dhaka, Bangladesh *(Dec 2024 - Present)*
-- **Machine Learning Intern (Remote)** at CodSoft, Kolkata, India *(Jul 2024 - Aug 2024)*
 - **Data Science Intern** at Designers Do Futuro, Dhaka, Bangladesh *(Aug 2023 - Jan 2024)*
 
 ### 📚 Research Publications
@@ -13,11 +12,12 @@
 2. [**Revisiting ONE Simulator in IoV Research: Seeing the Forest Through the Trees**](https://ieeexplore.ieee.org/document/10929018) *(IEEE Access 2025)*
 
 ### 🛠️ Technical Skills
-- **Programming Languages:** Python, C/C++, Java, JavaScript, PHP
-- **AI & Data Science:** Deep Learning, Data Mining, Data Analysis, Machine Learning
-- **Web Development:** HTML, CSS, Bootstrap, JavaScript
-- **Database:** MySQL
-- **Other:** Mathematics, Algorithm Design
+- **Programming Languages:** Python, C/C++, JavaScript.
+- **AI & Data Science:** Machine Learning, Deep Learning, Data Mining, Data Analysis.
+- **Database:** MySQL.
+- **Core Expertise:** Mathematics, Algorithm Design, Creating API, RAG, MCP.
+- - **TOOLS & LIBRARIES:** Docker, Postman, FastAPI, Pydantic Models, voice-to-text, text to-voice, Google AI studio, Groq,
+ OpenAI, HuggingFace, Git, Termius.
 
 ### 🌱 Current Learning Journey
 - Web Development (Programming Hero Label - 01)
