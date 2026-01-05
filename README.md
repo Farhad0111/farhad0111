@@ -26,12 +26,23 @@
 
 ### 🤝 Let's Connect!
 <div align="center">
-  <a href="https://github.com/Farhad0111"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" width="40"/></a>
-  <a href="https://www.linkedin.com/in/md-farhad-19234a250/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" width="40"/></a>
-  <a href="https://www.facebook.com/farhad.billah"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" width="40"/></a>
-  <a href="https://www.youtube.com/channel/UCDWMP5_3kmwx6KC5T_NjWeg"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="40" width="40"/></a>
-   <a href="https://ieeexplore.ieee.org/author/141334061385538"><img src="https://img.shields.io/badge/IEEE-Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
+  <a href="https://github.com/Farhad0111">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-farhad-19234a250/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/farhad.billah">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCDWMP5_3kmwx6KC5T_NjWeg">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="40"/>
+  </a>
+  <a href="https://ieeexplore.ieee.org/author/141334061385538">
+    <img src="https://img.shields.io/badge/IEEE-Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+  </a>
 </div>
+
 
 
 ### 🏆 GitHub Achievements
