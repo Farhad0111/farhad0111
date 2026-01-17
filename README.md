@@ -10,6 +10,9 @@
 ### 📚 Research Publications
 1. [**Deep Learning Models for Classification of Red Blood Cells in Microscopy Images for Anemia Diagnosis**](https://ieeexplore.ieee.org/document/10797203) *(COMPAS 2024)*
 2. [**Revisiting ONE Simulator in IoV Research: Seeing the Forest Through the Trees**](https://ieeexplore.ieee.org/document/10929018) *(IEEE Access 2025)*
+3. [**ShrimpXNet: A Transfer Learning Framework for Shrimp Disease Classification with Augmented Regularization, Adversarial Training, and Explainable AI**](https://arxiv.org/abs/2601.00832) *(3ICT 2025)*
+   
+
 
 ### 🛠️ Technical Skills
 - **Programming Languages:** Python, C/C++, JavaScript.
