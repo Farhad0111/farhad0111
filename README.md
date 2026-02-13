@@ -22,10 +22,14 @@
 - **TOOLS & LIBRARIES:** Docker, Postman, FastAPI, Pydantic Models, voice-to-text, text-to-voice, Google AI Studio, Groq, OpenAI, HuggingFace, Git, Termius.
 
 ### 🌱 Current Learning Journey
-- Web Development (Programming Hero Label - 01)
-- Data Science & Machine Learning with Python (Ostad)
-- Web Development (Programming Hero Label - 02)
-- AI Agent Development Bootcamp for Programmers (Ostad)
+- Web Development — Programming Hero (Level 01), 2024
+- Data Science & Machine Learning with Python — Ostad, 2024
+- Web Development — Programming Hero (Level 02), 2025
+- AI Agent Development Bootcamp for Programmers — Ostad, 2025
+- Data Engineer Foundations: Build Modern Data Systems — Udemy, 2026
+- Natural Language Processing for AI Engineers & Data Scientists — Udemy, 2026
+- Full-Stack AI Engineer 2026: Machine Learning Foundations (Part I) — Udemy, 2026
+- Full-Stack AI Engineer 2026: Deep Learning (Part II) — Udemy, 2026
 
 ### 🤝 Let's Connect!
 <div align="center">
