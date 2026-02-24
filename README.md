@@ -1,5 +1,5 @@
 # Md. Farhad Billah
-## AI Developer | Data Analyst
+## AI scientist - research + coding ≈ AI Developer | Data Analyst
 
 > BSc in Computer Science and Engineering (Data Science Specialization) - East West University
 
