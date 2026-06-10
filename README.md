@@ -11,6 +11,9 @@
 1. [**Deep Learning Models for Classification of Red Blood Cells in Microscopy Images for Anemia Diagnosis**](https://ieeexplore.ieee.org/document/10797203) *(COMPAS 2024)*
 2. [**Revisiting ONE Simulator in IoV Research: Seeing the Forest Through the Trees**](https://ieeexplore.ieee.org/document/10929018) *(IEEE Access 2025)*
 3. [**ShrimpXNet: A Transfer Learning Framework for Shrimp Disease Classification with Augmented Regularization, Adversarial Training, and Explainable AI**](https://arxiv.org/abs/2601.00832) *(3ICT 2025)*
+4. [**SFiNNet: Leveraging Transfer Learning and Explainable AI for Automated Small Fish Classification Enhanced via Adversarial Training and Augmented Regularization**](https://ieeexplore.ieee.org/abstract/document/11491764) *(ICCIT 2025)*
+5. [**Anomaly Detection for Ransomware Prevention Using Machine Learning and Local Interpretable Model-agnostic Explanations (LIME)**](https://ieeexplore.ieee.org/abstract/document/11502068) *(RAAICON 2025)*
+6. [**Performance Evaluating of Deep Learning Models for Leukemia Detection Using Microscopic Blood Images**](https://link.springer.com/chapter/10.1007/978-3-032-25955-4_6) *(Springer Nature 2025)*
    
 
 
