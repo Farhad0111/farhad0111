@@ -3,6 +3,10 @@
 
 > BSc in Computer Science and Engineering (Data Science Specialization) - East West University
 
+### About Me
+AI Engineer with 2+ years of experience building production-ready AI (OCR, voice assistants, text-to-video). Skilled in LLMs, RAG, FastAPI, and computer vision. Passionate about turning research into scalable solutions. Author of 6 IEEE/Journal & conference papers
+
+
 ### 💼 Professional Experience
 - **AI Engineer** at SM Technology, Dhaka, Bangladesh *(Dec 2024 - Present)*
 - **Data Science Intern** at Designers Do Futuro, Dhaka, Bangladesh *(Aug 2023 - Jan 2024)*
