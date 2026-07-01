@@ -22,11 +22,10 @@ AI Engineer with 2+ years of experience building production-ready AI (OCR, voice
 
 
 ### 🛠️ Technical Skills
-- **Programming Languages:** Python, C/C++, JavaScript.
-- **AI & Data Science:** Machine Learning, Deep Learning, Data Mining, Data Analysis.
-- **Database:** MySQL.
-- **Core Expertise:** Mathematics, Algorithm Design, Creating API, RAG, MCP.
-- **TOOLS & LIBRARIES:** Docker, Postman, FastAPI, Pydantic Models, voice-to-text, text-to-voice, Google AI Studio, Groq, OpenAI, HuggingFace, Git, Termius.
+- **Programming Languages:** Python, C++, C, SQL.
+- **ML/AI:** Machine Learning, Deep Learning, NLP, Computer Vision, RAG, MCP, PyTorch, TensorFlow/ Keras, Scikit-learn, LLMs.
+- **Frameworks & Tools:** FastAPI, Docker, Postman, Git, Hugging Face, OpenAI, Groq, Pydantic, Termius.
+- **Specialties (Applied & Data):** OCR, Voice-to-Text, Text-to-Video, Image Processing, Recommendation Systems, Pandas, NumPy, Data Cleaning, Data Visualization, Data Mining, Exploratory Data Analysis (EDA), Statistical Modeling.
 
 ### 🌱 Current Learning Journey
 - Web Development — Programming Hero (Level 01), 2024
